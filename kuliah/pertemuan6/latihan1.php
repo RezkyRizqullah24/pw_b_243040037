@@ -4,7 +4,7 @@
 
 $hari = array("Senin", "Selasa", "Rabu");
 $bulan = ["Januari", "Februari", "Maret"];
-$myArray = ["Rizki", 18, true];
+$myArray = ["Rezky", 11, true];
 
 // Mencetak/Menampilkan Array
 
